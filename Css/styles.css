@@ -38,9 +38,10 @@ img {
     margin-bottom: 1em;
 }
 
-.container h2 {
+.container h1 {
     color: hsl(218, 44%, 22%);
     margin-bottom: 1em;
+    font-size: 24px;
     font-weight: 700;
 }
 
